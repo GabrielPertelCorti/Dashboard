@@ -1,9 +1,0 @@
-
-
-export default function Home() {
-  return (
-    <main>
-      <h1 className="" >Dashboard</h1>
-    </main>
-  )
-}
