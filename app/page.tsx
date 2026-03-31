@@ -1,9 +1,11 @@
-import { Button } from "@/components/ui/button";
+
 
 export default function Home() {
   return (
-    <main>
-      <h1 className="text-3xl" >Dashboard</h1>
+    <main className="sm:ml-14 p-4" >
+      <section className="grid grid-cols-2 gap-4" >
+        
+      </section>
     </main>
   )
 }
